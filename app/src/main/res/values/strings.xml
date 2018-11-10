@@ -1,0 +1,122 @@
+<resources>
+    <string name="app_name">iStudent</string>
+    <string name="title_activity_sign_up">sign_upActivity</string>
+    <string name="title_activity_sign_in">sign_inActivity</string>
+
+    <string-array name="items">
+        <item>Discrete math</item>
+        <item>Computer Networks</item>
+        <item>Structured Programming</item>
+        <item>Principles of econ</item>
+        <item>Health edu</item>
+        <item>society and culture</item>
+        <item>Electrical eng</item>
+        <item>Comp Architecture</item>
+    </string-array>
+    <string-array name="lecturer">
+        <item>Njue</item>
+        <item>Gathondu</item>
+        <item>Kariuki</item>
+        <item>Musyoka</item>
+        <item>Mary</item>
+        <item>Atieno</item>
+        <item>Chege</item>
+        <item>Washington</item>
+    </string-array>
+
+    <string-array name="room">
+        <item>D32</item>
+        <item>D32</item>
+        <item>D11</item>
+        <item>D2</item>
+        <item>Main hall</item>
+        <item>Main hall</item>
+        <item>D1</item>
+        <item>D33</item>
+    </string-array>
+
+    <string-array name="itemsS2">
+        <item>Os system principles</item>
+        <item>visual programming</item>
+        <item>web programming</item>
+        <item>system analysis and design</item>
+        <item>Digital electronics</item>
+        <item>Data comm</item>
+        <item>E-commerce</item>
+        <item>Probability and stats</item>
+    </string-array>
+    <string-array name="lecturerS2">
+        <item>Wairagu</item>
+        <item>Okoth</item>
+        <item>Kane</item>
+        <item>Araka</item>
+        <item>Owira</item>
+        <item>Rono</item>
+        <item>Abuodha</item>
+        <item>Kirimi</item>
+    </string-array>
+
+    <string-array name="roomS2">
+        <item>D13</item>
+        <item>D21</item>
+        <item>D23</item>
+        <item>D24</item>
+        <item>D33</item>
+        <item>D12</item>
+        <item>D33</item>
+        <item>D34</item>
+    </string-array>
+    <string-array name="itemsY3">
+        <item>Research Methods</item>
+        <item>Assembly lang</item>
+        <item>OOP</item>
+        <item>A.I</item>
+        <item>Numeric Methods</item>
+        <item>HCI</item>
+        <item>Mobile Computing</item>
+        <item>Digital Control Eng</item>
+    </string-array>
+    <string-array name="lecturerY3">
+        <item>Ngaruiya</item>
+        <item>Max</item>
+        <item>Dr.Salesio</item>
+        <item>Mokua</item>
+        <item>Dr.Maina</item>
+        <item>Dr.Raymond</item>
+        <item>Kuria</item>
+        <item>Chombah</item>
+    </string-array>
+
+    <string-array name="roomY3">
+        <item>D13</item>
+        <item>D21</item>
+        <item>D23</item>
+        <item>D24</item>
+        <item>D25</item>
+        <item>D14</item>
+        <item>D15</item>
+        <item>D21</item>
+    </string-array>
+    <string-array name="itemsY4">
+        <item>Industrial programming</item>
+        <item>sytems dev</item>
+        <item>MIS</item>
+        <item>Legal and ethical issues</item>
+        <item>Project management</item>
+    </string-array>
+    <string-array name="lecturerY4">
+        <item>Chombah</item>
+        <item>Okoth</item>
+        <item>Mokua</item>
+        <item>Ngaruiya</item>
+        <item>Dismus</item>
+    </string-array>
+
+    <string-array name="roomY4">
+        <item>D13</item>
+        <item>D21</item>
+        <item>D23</item>
+        <item>D24</item>
+        <item>D11</item>
+    </string-array>
+</resources>
